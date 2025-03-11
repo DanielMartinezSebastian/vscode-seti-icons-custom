@@ -470,5 +470,93 @@
     "flow": {
         "light": "#ff9f14",
         "dark": "#ffdc67"
+    },
+    "app_folder": {
+        "light": "#87CEEB",
+        "dark": "#87CEEB"
+    },
+    "app_folder_open": {
+        "light": "#87CEEB",
+        "dark": "#87CEEB"
+    },
+    "components_folder": {
+        "light": "#41b883",
+        "dark": "#41b883"
+    },
+    "components_folder_open": {
+        "light": "#41b883",
+        "dark": "#41b883"
+    },
+    "hooks_folder": {
+        "light": "#a074c4",
+        "dark": "#a074c4"
+    },
+    "hooks_folder_open": {
+        "light": "#a074c4", 
+        "dark": "#a074c4"
+    },
+    "store_folder": {
+        "light": "#764ABC",
+        "dark": "#764ABC"
+    },
+    "store_folder_open": {
+        "light": "#764ABC",
+        "dark": "#764ABC"
+    },
+    "utils_folder": {
+        "light": "#e37933",
+        "dark": "#e37933"
+    },
+    "utils_folder_open": {
+        "light": "#e37933",
+        "dark": "#e37933"
+    },
+    "lib_folder": {
+        "light": "#a074c4",
+        "dark": "#a074c4"
+    },
+    "lib_folder_open": {
+        "light": "#a074c4",
+        "dark": "#a074c4"
+    },
+    "database_folder": {
+        "light": "#519aba",
+        "dark": "#519aba"
+    },
+    "database_folder_open": {
+        "light": "#519aba",
+        "dark": "#519aba"
+    },
+    "pages_folder": {
+        "light": "#cbcb41",
+        "dark": "#cbcb41"
+    },
+    "pages_folder_open": {
+        "light": "#cbcb41",
+        "dark": "#cbcb41"
+    },
+    "api_folder": {
+        "light": "#8cc84b",
+        "dark": "#8cc84b"
+    },
+    "api_folder_open": {
+        "light": "#8cc84b",
+        "dark": "#8cc84b"
+    },
+    "public_folder": {
+        "light": "#519aba",
+        "dark": "#519aba"
+    },
+    "public_folder_open": {
+        "light": "#519aba",
+        "dark": "#519aba"
+    },
+    "styles_folder": {
+        "light": "#f55385",
+        "dark": "#f55385"
+    },
+    "styles_folder_open": {
+        "light": "#f55385",
+        "dark": "#f55385"
     }
 }
