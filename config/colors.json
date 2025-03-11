@@ -397,11 +397,19 @@
     },
     "vscode_folder": {
         "light": "#0079cc",
-        "dark": "#0079cc"
+        "dark": "#004c80"
     },
     "vscode_folder_open": {
         "light": "#0079cc",
-        "dark": "#0079cc"
+        "dark": "#004c80"
+    },
+    "next_folder": {
+        "light": "#0079cc",
+        "dark": "#004c80"
+    },
+    "next_folder_open": {
+        "light": "#0079cc",
+        "dark": "#004c80"
     },
     "node_modules_folder": {
         "light": "#8cc84b",

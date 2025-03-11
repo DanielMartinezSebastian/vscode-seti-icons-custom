@@ -3,7 +3,8 @@
     "folder": "folder",
     "folderExpanded": "folder_open",
     "folderNames": {
-        ".vscode": "folder",
+        ".vscode": "vscode_folder",
+        ".next": "next_folder",
         "typings": "typings_folder",
         "node_modules": "node_modules_folder",
         ".git": "git_folder",
@@ -23,6 +24,7 @@
     },
     "folderNamesExpanded": {
         ".vscode": "vscode_folder_open",
+        ".next": "next_folder_open",
         "typings": "typings_folder_open",
         "node_modules": "node_modules_folder_open",
         ".git": "git_folder_open",
