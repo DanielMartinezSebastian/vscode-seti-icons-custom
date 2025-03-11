@@ -3,17 +3,41 @@
     "folder": "folder",
     "folderExpanded": "folder_open",
     "folderNames": {
-        ".vscode": "vscode_folder",
+        ".vscode": "folder",
         "typings": "typings_folder",
         "node_modules": "node_modules_folder",
         ".git": "git_folder",
-        "src": "src_folder"
+        "src": "src_folder",
+        "app" : "app_folder",
+        "components": "components_folder",
+        "store": "store_folder",
+        "hooks" : "hooks_folder",
+        "utils": "utils_folder",
+        "lib": "lib_folder",
+        "database": "database_folder",
+        "db": "database_folder",
+        "pages": "pages_folder",
+        "api": "api_folder",
+        "public": "public_folder",
+        "styles": "styles_folder"
     },
     "folderNamesExpanded": {
         ".vscode": "vscode_folder_open",
         "typings": "typings_folder_open",
         "node_modules": "node_modules_folder_open",
         ".git": "git_folder_open",
-        "src": "src_folder_open"
+        "src": "src_folder_open",
+        "app" : "app_folder_open",
+        "components": "components_folder_open",
+        "store": "store_folder_open",
+        "hooks" : "hooks_folder_open",
+        "utils": "utils_folder_open",
+        "lib": "lib_folder_open",
+        "database": "database_folder_open",
+        "db": "database_folder_open",
+        "pages": "pages_folder_open",
+        "api": "api_folder_open",
+        "public": "public_folder_open",
+        "styles": "styles_folder_open"
     }
 }
