@@ -23,7 +23,20 @@ Icons for VS Code (version 1.5.0+)
 
 ![screenshot](./screenshot.png)
 
+## custom folder colors
+
+We've customized the colors of common Next.js project folders for better visibility and organization, including `components`, `hooks` and `utils` directories.
+
+Additionally, we've added darker color variants for the `.vscode` and `.next` folders to distinguish these system/build folders from your project source code.
+
+![custom-folders](./next-folders.jpg)
+
 ## change log
+
+- v0.1.4
+
+ 1. add custom colors for Next.js project folders (components, hooks, context, services and utils)
+ 2. add darker color variants for .vscode and .next folders
 
 - v0.1.3
 
