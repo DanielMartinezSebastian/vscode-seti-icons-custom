@@ -4,9 +4,20 @@ Icons for VS Code (version 1.5.0+)
 
 ## usage 
 
-    1. Open the command list (Press F1 or Ctrl + Shift + P)
-    2. Select `File Icon Theme`
-    3. Select `Seti UI`
+    ## Installation
+
+    1. Open the Command Palette (Press `F1` or `Ctrl+Shift+P`)
+    2. Type "File Icon Theme"
+    3. Select `Seti UI` from the list
+
+    ## Applying Changes After Installation
+
+    1. In the project root directory, run:
+        ```bash
+        node lib/icon.js
+        ```
+    2. Open the Command Palette (Press `F1` or `Ctrl+Shift+P`)
+    3. Select `Developer: Reload Window`
 
 ## screenshot
 
