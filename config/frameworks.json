@@ -1,0 +1,166 @@
+{
+    "Next.js": {
+        "folderNames": {
+            "pages": "pages_folder",
+            "api": "api_folder",
+            "public": "public_folder",
+            "styles": "styles_folder",
+            "app": "app_folder",
+            "components": "components_folder",
+            "lib": "lib_folder",
+            "hooks": "hooks_folder",
+            "utils": "utils_folder",
+            "layouts": "components_folder",
+            "middleware": "api_folder",
+            "contexts": "store_folder"
+        },
+        "folderNamesExpanded": {
+            "pages": "pages_folder_open",
+            "api": "api_folder_open",
+            "public": "public_folder_open",
+            "styles": "styles_folder_open",
+            "app": "app_folder_open",
+            "components": "components_folder_open",
+            "lib": "lib_folder_open",
+            "hooks": "hooks_folder_open",
+            "utils": "utils_folder_open",
+            "layouts": "components_folder_open",
+            "middleware": "api_folder_open",
+            "contexts": "store_folder_open"
+        }
+    },
+    "React": {
+        "folderNames": {
+            "src": "src_folder",
+            "components": "components_folder",
+            "containers": "components_folder",
+            "hooks": "hooks_folder",
+            "utils": "utils_folder",
+            "store": "store_folder",
+            "redux": "store_folder",
+            "context": "store_folder",
+            "assets": "public_folder",
+            "services": "api_folder"
+        },
+        "folderNamesExpanded": {
+            "src": "src_folder_open",
+            "components": "components_folder_open",
+            "containers": "components_folder_open",
+            "hooks": "hooks_folder_open",
+            "utils": "utils_folder_open",
+            "store": "store_folder_open",
+            "redux": "store_folder_open",
+            "context": "store_folder_open",
+            "assets": "public_folder_open",
+            "services": "api_folder_open"
+        }
+    },
+    "React Native": {
+        "folderNames": {
+            "src": "src_folder",
+            "components": "components_folder",
+            "screens": "screens_folder",
+            "navigation": "components_folder",
+            "hooks": "hooks_folder",
+            "utils": "utils_folder",
+            "store": "store_folder",
+            "redux": "store_folder",
+            "assets": "public_folder",
+            "services": "api_folder",
+            "api": "api_folder"
+        },
+        "folderNamesExpanded": {
+            "src": "src_folder_open",
+            "components": "components_folder_open",
+            "screens": "screens_folder_open",
+            "navigation": "components_folder_open",
+            "hooks": "hooks_folder_open",
+            "utils": "utils_folder_open",
+            "store": "store_folder_open",
+            "redux": "store_folder_open",
+            "assets": "public_folder_open",
+            "services": "api_folder_open",
+            "api": "api_folder_open"
+        }
+    },
+    "Angular": {
+        "folderNames": {
+            "src": "src_folder",
+            "app": "app_folder",
+            "assets": "public_folder",
+            "environments": "utils_folder",
+            "services": "api_folder",
+            "modules": "components_folder",
+            "directives": "components_folder",
+            "pipes": "utils_folder",
+            "guards": "utils_folder",
+            "interceptors": "api_folder",
+            "store": "store_folder"
+        },
+        "folderNamesExpanded": {
+            "src": "src_folder_open",
+            "app": "app_folder_open",
+            "assets": "public_folder_open",
+            "environments": "utils_folder_open",
+            "services": "api_folder_open",
+            "modules": "components_folder_open",
+            "directives": "components_folder_open",
+            "pipes": "utils_folder_open",
+            "guards": "utils_folder_open",
+            "interceptors": "api_folder_open",
+            "store": "store_folder_open"
+        }
+    },
+    "Vue": {
+        "folderNames": {
+            "src": "src_folder",
+            "components": "components_folder",
+            "views": "pages_folder",
+            "pages": "pages_folder",
+            "router": "components_folder",
+            "store": "store_folder",
+            "assets": "public_folder",
+            "directives": "utils_folder",
+            "mixins": "utils_folder",
+            "services": "api_folder",
+            "api": "api_folder"
+        },
+        "folderNamesExpanded": {
+            "src": "src_folder_open",
+            "components": "components_folder_open",
+            "views": "pages_folder_open",
+            "pages": "pages_folder_open",
+            "router": "components_folder_open",
+            "store": "store_folder_open",
+            "assets": "public_folder_open",
+            "directives": "utils_folder_open",
+            "mixins": "utils_folder_open",
+            "services": "api_folder_open",
+            "api": "api_folder_open"
+        }
+    },
+    "Svelte": {
+        "folderNames": {
+            "src": "src_folder",
+            "routes": "pages_folder",
+            "components": "components_folder",
+            "lib": "lib_folder",
+            "stores": "store_folder",
+            "static": "public_folder",
+            "assets": "public_folder",
+            "services": "api_folder",
+            "api": "api_folder"
+        },
+        "folderNamesExpanded": {
+            "src": "src_folder_open",
+            "routes": "pages_folder_open",
+            "components": "components_folder_open",
+            "lib": "lib_folder_open",
+            "stores": "store_folder_open",
+            "static": "public_folder_open",
+            "assets": "public_folder_open",
+            "services": "api_folder_open",
+            "api": "api_folder_open"
+        }
+    }
+}

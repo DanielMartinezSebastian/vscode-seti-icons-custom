@@ -1,13 +1,14 @@
 {
   "name": "seti-icons",
-  "displayName": "seti-icons",
-  "description": "Icons for VS Code",
+  "displayName": "Seti Icons",
+  "description": "Seti Icons for Visual Studio Code with dynamic framework detection",
   "version": "0.1.3",
   "publisher": "qinjia",
-  "icon": "icon.png",
   "engines": {
     "vscode": "^1.5.0"
   },
+  "activationEvents": ["onStartupFinished"],
+  "main": "./extension.js",
   "scripts": {
     "make": "node ./lib/icon.js"
   },
@@ -23,14 +24,37 @@
     "url": "https://github.com/hellopao/vscode-seti-icons/issues"
   },
   "contributes": {
-    "themes": [],
+    "commands": [
+      {
+        "command": "seti-icons.detectFramework",
+        "title": "Seti Icons: Detect Framework"
+      },
+      {
+        "command": "seti-icons.resetToDefault",
+        "title": "Seti Icons: Reset to Default Icons"
+      }
+    ],
+    "configuration": {
+      "title": "Seti Icons",
+      "properties": {
+        "seti-icons.frameworkDetection": {
+          "type": "boolean",
+          "default": true,
+          "description": "Automáticamente detectar el framework del proyecto y aplicar iconos específicos"
+        }
+      }
+    },
     "iconThemes": [
       {
         "id": "seti",
-        "label": "Seti UI",
-        "path": "./seti.json"
+        "label": "Seti",
+        "path": "./icons/seti.json"
       }
     ]
+  },
+  "dependencies": {
+    "vscode": "^1.1.37",
+    "fs-extra": "^10.0.0"
   },
   "__metadata": {
     "id": "85e57fc6-8e21-4402-8e66-af4155fbb5d2",

@@ -419,6 +419,14 @@
         "light": "#8cc84b",
         "dark": "#8cc84b"
     },
+    "screens_folder": {
+        "light": "#41b883",
+        "dark": "#41b883"
+    },
+    "screens_folder_open": {
+        "light": "#41b883",
+        "dark": "#41b883"
+    },
     "typings_folder": {
         "light": "#0079cc",
         "dark": "#0079cc"

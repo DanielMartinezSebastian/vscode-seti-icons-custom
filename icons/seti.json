@@ -54,21 +54,6 @@
     "folder_styles": {
       "iconPath": "./icons/styles_folder.svg"
     },
-    "folder_screens": {
-      "iconPath": "./icons/screens_folder.svg"
-    },
-    "folder_navigation": {
-      "iconPath": "./icons/components_folder.svg"
-    },
-    "folder_redux": {
-      "iconPath": "./icons/store_folder.svg"
-    },
-    "folder_assets": {
-      "iconPath": "./icons/public_folder.svg"
-    },
-    "folder_services": {
-      "iconPath": "./icons/api_folder.svg"
-    },
     "folder_.vscode_open": {
       "iconPath": "./icons/vscode_folder_open.svg"
     },
@@ -123,21 +108,6 @@
     "folder_styles_open": {
       "iconPath": "./icons/styles_folder_open.svg"
     },
-    "folder_screens_open": {
-      "iconPath": "./icons/screens_folder_open.svg"
-    },
-    "folder_navigation_open": {
-      "iconPath": "./icons/components_folder_open.svg"
-    },
-    "folder_redux_open": {
-      "iconPath": "./icons/store_folder_open.svg"
-    },
-    "folder_assets_open": {
-      "iconPath": "./icons/public_folder_open.svg"
-    },
-    "folder_services_open": {
-      "iconPath": "./icons/api_folder_open.svg"
-    },
     "_folder_dark": {
       "iconPath": "./icons/folder.svg"
     },
@@ -166,12 +136,7 @@
     "pages": "folder_pages",
     "api": "folder_api",
     "public": "folder_public",
-    "styles": "folder_styles",
-    "screens": "folder_screens",
-    "navigation": "folder_navigation",
-    "redux": "folder_redux",
-    "assets": "folder_assets",
-    "services": "folder_services"
+    "styles": "folder_styles"
   },
   "folderNamesExpanded": {
     ".vscode": "folder_.vscode_open",
@@ -191,12 +156,7 @@
     "pages": "folder_pages_open",
     "api": "folder_api_open",
     "public": "folder_public_open",
-    "styles": "folder_styles_open",
-    "screens": "folder_screens_open",
-    "navigation": "folder_navigation_open",
-    "redux": "folder_redux_open",
-    "assets": "folder_assets_open",
-    "services": "folder_services_open"
+    "styles": "folder_styles_open"
   },
   "folder": "_folder_dark",
   "folderExpanded": "_folder_open_dark",
